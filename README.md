@@ -22,14 +22,6 @@ This repository contains a simple data science project focused on linear regress
 
 This project is an exploration of linear regression with a single variable in the context of Canada. Linear regression is a fundamental statistical and machine learning technique used to model the relationship between a dependent variable and one or more independent variables.
 
-## Project Structure
-
-The project is structured as follows:
-
-- `data/`: Contains the dataset used for analysis.
-- `notebooks/`: Jupyter notebooks with step-by-step analysis and code.
-- `src/`: Python scripts for data preprocessing, modeling, and evaluation.
-
 ## Prerequisites
 
 Ensure you have the following prerequisites installed:
@@ -44,10 +36,6 @@ Install dependencies using:
 ```bash
 pip install -r requirements.txt
 ```
-
-## Dataset
-
-The dataset used for this project is sourced from [provide_dataset_link_here]. It includes [describe_dataset_content].
 
 ## Exploratory Data Analysis (EDA)
 
@@ -68,7 +56,7 @@ The project relies on the following Python libraries:
 - pandas
 - numpy
 - matplotlib
-- seaborn
+- seaborn/matplotlb
 - scikit-learn
 
 Install dependencies using:

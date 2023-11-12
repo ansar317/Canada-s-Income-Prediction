@@ -1,4 +1,4 @@
-# Canada's Linear Regression Single Variable Project
+# Canada's Income Prediction using Linear Regression with Single Variable
 
 ## Overview
 
